@@ -24,7 +24,7 @@
 /*********************
 *   Roster/status colors
 *********************/
-define('COLOR_HTML_NORMAL',   '#FFFFFF'); // Color used when not in detailed view mode.
+define('COLOR_HTML_NORMAL',   'transparent'); // Color used when not in detailed view mode.
 define('COLOR_HTML_READY',    '#83b783');
 define('COLOR_HTML_MNG',      '#6495ED');
 define('COLOR_HTML_DEAD',     '#F78771');

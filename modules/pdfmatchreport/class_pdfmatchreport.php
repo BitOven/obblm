@@ -63,7 +63,7 @@ class PDFMatchReport implements ModuleInterface
         define("HEADLINEBGCOLOR", '#c3c3c3');
         
         # player statuses
-        define('COLOR_ROSTER_NORMAL',       COLOR_HTML_NORMAL);
+        define('COLOR_ROSTER_NORMAL',       '#FFFFFF');
         define('COLOR_ROSTER_READY',        COLOR_HTML_READY);
         define('COLOR_ROSTER_MNG',          COLOR_HTML_MNG);
         define('COLOR_ROSTER_DEAD',         COLOR_HTML_DEAD);

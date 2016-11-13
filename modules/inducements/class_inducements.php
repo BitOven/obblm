@@ -85,12 +85,12 @@ foreach ($stars as $s => $d) {
 <link type="text/css" href="css/stylesheet1.css" rel="stylesheet">
 -->
 <style type="text/css">
-td { background-color: #EEEEEE; color: #000000; font: 13px Tahoma; }
-td.indtitle { background-color: #EEEEEE; color: #000000; font: bold 12px Tahoma; }
-td.boxie { background-color: #EEEEEE; color: #000000; }
+td { background-color: transparent; color: #000000; font: 13px Tahoma; }
+td.indtitle { background-color: transparent; color: #000000; font: bold 12px Tahoma; }
+td.boxie { background-color: transparent; color: #000000; }
 td.cent { text-align: center; }
-td.cent2 { text-align: center; background-color: #EEEEEE; color: #000000; }
-td.right { text-align: right; background-color: #EEEEEE; color: #000000; }
+td.cent2 { text-align: center; background-color: transparent; color: #000000; }
+td.right { text-align: right; background-color: transparent; color: #000000; }
 </style>
 <script language="javascript">
 <!--
