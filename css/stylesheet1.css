@@ -12,7 +12,7 @@ body
     background-repeat: repeat-y;
     background-position: top center;
     */
-    background-image: url(../images/bg.jpg);
+    background-image: url(../images/bg.png);
     background-attachment: fixed;
     font: 12px Tahoma;
 }
@@ -39,7 +39,7 @@ div.row {width: inherit; clear: both; background-color: inherit;}
 div.everything {
     width: 1200px; 
     margin: auto; 
-    background-color: rgba(240,240,240,0.7);
+    background-color: rgba(240,240,240,0.0);
     border-radius: 4px;
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
